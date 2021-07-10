@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://church.of.the.asopposedtowhat.com"
 languageCode = "en-us"
 title = "church.of.the.AsOpposedToWhat.com"
 theme = "tale"
