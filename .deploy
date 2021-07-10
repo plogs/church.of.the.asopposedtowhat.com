@@ -16,7 +16,7 @@ hugo || {
     exit 1
 }
 
-test -d public || {
+cd public || {
     echo "Error: could not cd to: public"
     exit 1
 }
@@ -32,6 +32,7 @@ cd $targetDir || {
 }
 
 tar xvf $tmptar
+cp $tmptar /tmp/stevei.tar
 
 rm -f $tmptar
 
