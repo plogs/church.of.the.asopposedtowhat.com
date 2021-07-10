@@ -13,7 +13,7 @@ draft: false
 
 1. Very few things are certain, but some things we do know.
 
-1. Today's authority is yesterday's snot-nosed kid.
+1. Today's authority soon becomes yesterday's snot-nosed kid.
 
 1. The world is full of beautiful people and interesting things.
 
@@ -25,6 +25,7 @@ and work in the morning.
 1. All things are funny, in context.
 
 
+1. Looks like we're missing one.
 
 <!--
 1. The person who thinks can't be fooled is the easiest person to
