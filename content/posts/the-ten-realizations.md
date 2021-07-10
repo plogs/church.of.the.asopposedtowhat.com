@@ -1,11 +1,11 @@
 ---
-title: "The Ten Admonitions"
-date: 2020-01-01T19:30:50-07:00
+title: "The Ten Realizations"
+date: 2021-07-09T19:37:29-07:00
 draft: false
 ---
 
 
-# The Ten Admonitions
+# Ten Realizations
 
 1. Humans are easy to fool (especially you).
 
@@ -17,18 +17,22 @@ draft: false
 
 1. The world is full of beautiful people and interesting things.
 
-1. The person who thinks he's not being fooled is the easiest person
-to fool.
-
-1. You can eat, drink and be merry, but not so much if you have to
-get up and work in the morning.
+1. Eat, drink and be merry, but not too much if you have to get up
+and work in the morning.
 
 1. Before your dad's sperm met your mom's egg, that's what it was like to be dead.
 
 1. All things are funny, in context.
 
+
+
+<!--
+1. The person who thinks can't be fooled is the easiest person to
+fool.
+
 1. The best answer is usually: I don't know &mdash; but maybe we can
 find out.
 
+-->
 
 
