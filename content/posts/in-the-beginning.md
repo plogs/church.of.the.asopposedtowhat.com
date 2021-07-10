@@ -19,8 +19,8 @@ The Industrial Revolution kicked into gear in the 1800s.
 
 Today we have cell-phones, rhinoplasty, and cat gifs.
 
-But all is not lost. Our future is still bright.
+But all is not lost. Our future looks bright.
 
-That's the beauty of the human mind, it's ability to change and grow,
-and adapt to new situations.
+That's the beauty of the human mind, it's ability to change and to
+grow and to adapt to new situations.
 
