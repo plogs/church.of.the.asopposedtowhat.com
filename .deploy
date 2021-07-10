@@ -35,6 +35,7 @@ tar xvf $tmptar
 cp $tmptar /tmp/stevei.tar
 
 rm -f $tmptar
+rm -rf public/
 
 echo Done
 exit 0
