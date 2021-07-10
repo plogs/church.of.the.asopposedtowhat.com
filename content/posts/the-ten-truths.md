@@ -1,11 +1,11 @@
 ---
-title: "The Ten Truths"
+title: "The Ten Admonitions"
 date: 2020-01-01T19:30:50-07:00
 draft: false
 ---
 
 
-# The Ten Truths
+# The Ten Admonitions
 
 1. Humans are easy to fool (especially you).
 
