@@ -23,8 +23,7 @@ to fool.
 1. You can eat, drink and be merry, but not so much if you have to
 get up and work in the morning.
 
-1. Before your dad's sperm met your mom's egg, that's what death was
-like.
+1. Before your dad's sperm met your mom's egg, that's what it was like to be dead.
 
 1. All things are funny, in context.
 
