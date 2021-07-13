@@ -28,7 +28,7 @@ because we learned in school not to question authority, and we were
 told that the really difficult questions, the questions about life
 and meaning and purpose, could be answered if we just 'prayed on
 them' hard enough. (Not to be confused with Catholic preists who
-preyed on them hard &mdash; [ba-dum
+preyed on them hard enough &mdash; [ba-dum
 ching](https://upload.wikimedia.org/wikipedia/commons/b/b4/Sting.ogg)!)[^3].
 
 But ultimately you must decide on your own, you must learn to think
