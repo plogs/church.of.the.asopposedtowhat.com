@@ -27,9 +27,9 @@ These questions are difficult for most of us to think clearly about
 because we learned in school not to question authority, and we were
 told that the really difficult questions, the questions about life
 and meaning and purpose, could be answered if we just 'prayed on
-them' hard enough. (Not to be confused with Catholic preists who
-preyed on them hard enough &mdash; [ba-dum
-ching](https://upload.wikimedia.org/wikipedia/commons/b/b4/Sting.ogg)!)[^3].
+them' hard. (Not to be confused with the Catholic preists who
+preyed on them hard &mdash; *[ba-dum
+ching](https://upload.wikimedia.org/wikipedia/commons/b/b4/Sting.ogg)*).
 
 But ultimately you must decide on your own, you must learn to think
 for yourself.
@@ -38,4 +38,3 @@ for yourself.
 
 [^2]: [Sins of Omission: How the Catholic Church Shielded Credibly Accused Priests](https://www.propublica.org/article/dozens-of-catholic-priests-credibly-accused-of-abuse-found-work-abroad-some-with-the-churchs-blessing?token=d0bN47zStvHcmbER7GvkvKAYTIy9JN7t)
 
-[^3]: [Sting (percussion)](https://en.wikipedia.org/wiki/Sting_(percussion))
