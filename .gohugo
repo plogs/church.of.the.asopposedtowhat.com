@@ -1,1 +1,4 @@
 hugo server
+
+# include Drafts
+# hugo server -D

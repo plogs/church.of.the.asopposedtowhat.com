@@ -1,0 +1,5 @@
+echo "Is draft=false" ; sleep 2
+
+ksh ./.deploy
+ksh ./.toprod
+
