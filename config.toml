@@ -16,3 +16,9 @@ theme = "tale"
     title = "Posts"
     url = "/posts/"
     weight = 0
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    title = "Contact"
+    url = "/contact"
+    weight = 0
