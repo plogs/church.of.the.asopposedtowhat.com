@@ -34,6 +34,10 @@ ching](https://upload.wikimedia.org/wikipedia/commons/b/b4/Sting.ogg)*).
 But ultimately you must decide on your own, you must learn to think
 for yourself.
 
+# What we believe
+
+See [The Ten Realizations](/posts/the-ten-realizations)
+
 [^1]: [How US churches exploit tax exemption to promote faith-based politics](https://www.theguardian.com/commentisfree/2012/nov/20/us-churches-tax-exemption-faithbased-politics)
 
 [^2]: [Sins of Omission: How the Catholic Church Shielded Credibly Accused Priests](https://www.propublica.org/article/dozens-of-catholic-priests-credibly-accused-of-abuse-found-work-abroad-some-with-the-churchs-blessing?token=d0bN47zStvHcmbER7GvkvKAYTIy9JN7t)
