@@ -26,6 +26,6 @@ that we have today.
 But all is not lost. 'Hope' is a renewable resource. We can still
 learn to see the world in different ways.
 
-And that's the beauty of the human mind: it's ability to change and
-grow and adapt to new situations.
+That's the beauty of the human mind, it's ability to change and grow
+and adapt to new situations.
 
