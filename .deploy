@@ -14,7 +14,6 @@ cd $thisdir || {
     exit 1
 }
 
-
 # cleanup
 test -d public && rm -rf public
 
@@ -43,10 +42,12 @@ cp $tmptar /tmp/stevei.tar
 
 rm -f $tmptar
 
-cd $thisdir
+cd $thisdir || {
+    echo "Error: could not cd to: $thisdir"
+    exit 1
+}
+
 rm -rf public/
 
 echo Done
 exit 0
-
-

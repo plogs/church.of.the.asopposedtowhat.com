@@ -12,5 +12,6 @@ git commit -m " - incremental checkin."
 git push
 
 
+echo $targetDir
 echo Done
 exit 0
