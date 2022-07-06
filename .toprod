@@ -1,6 +1,10 @@
 :
 
-targetDir=/run/media/stevei/plnkx/2019-github/church.of.the.asopposedtowhat.com
+
+: ${github:=/run/media/stevei/plnkx/2019-github}
+thisdir=${github}/church.of.the.asopposedtowhat.com.src
+
+targetDir=$(echo $thisdir | sed -e 's/.src$//')
 
 cd $targetDir || {
     echo "Error: could not cd to: $targetDir"
@@ -12,6 +16,5 @@ git commit -m " - incremental checkin."
 git push
 
 
-echo $targetDir
 echo Done
 exit 0
