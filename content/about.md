@@ -19,6 +19,6 @@ yourself.
 
 # What we believe
 
-See [The Ten Realizations](/posts/the-ten-realizations)
+See [The Ten Entreaties](/posts/the-ten-entreaties)
 
 
