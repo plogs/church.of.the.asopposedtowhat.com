@@ -5,7 +5,7 @@ other = "Autor"
 other = "opublikowano"
 
 [generator]
-other = "church.of.the.AsOpposedToWhat.com"
+other = "WootCatChurch.com"
 
 [publishdate]
 other = "{{ .PublishDate.Day }}. {{ index $.Site.Data.months_pl (printf \"%d\" .PublishDate.Month) }} {{ .PublishDate.Year }}"

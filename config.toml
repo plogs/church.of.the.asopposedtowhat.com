@@ -1,11 +1,11 @@
-baseURL = "https://church.of.the.asopposedtowhat.com"
+baseURL = "https://wootcatchurch.com"
 languageCode = "en-us"
-title = "Church of the AsOpposedToWhat.com"
+title = "WootCat Church"
 theme = "tale"
 
 [menu]
   [[menu.main]]
-    identifier = "AsOpposedToWhat"
+    identifier = "WootCat"
     name = "AOTW"
     title = "AsOpposedToWhat"
     url = "https://asopposedtowhat.com/"

@@ -6,7 +6,7 @@ other = ""
 # other = "on"
 
 [generator]
-other = "church.of.the.AsOpposedToWhat.com"
+other = "WootCatChurch.com"
 
 [publishdate]
 other = "{{ .PublishDate.Format \"January 2, 2006\" }}"
