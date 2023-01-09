@@ -4,7 +4,7 @@ date: 2021-12-01T19:37:29-07:00
 draft: false
 ---
 
-### entreaty: to ask (a person) earnestly and seriously (to do something)
+### entreaty: to ask a person earnestly and seriously to do something
 
 Remember that
 
@@ -28,10 +28,16 @@ Remember that
 
 1. All things are funny, in context.
 
-_looks like we're missing one_
+1. Your mental model of the world is not reality. But it is the map
+   that we use to navigate the world. Pick a good one.
 
 <!--
 
+1. Your worldview determines which maps you'll use to navigate the
+   world. Pick a good one.
+
+1. Your worldview determines how you'll navigate the
+   world. Pick a good one.
 1. _looks like we're missing one_
 
 1. The person who thinks can't be fooled is the easiest person to
