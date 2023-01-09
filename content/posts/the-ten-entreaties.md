@@ -28,8 +28,9 @@ Remember that
 
 1. All things are funny, in context.
 
-1. Your mental model of the world is not reality. But it is the map
-   that we use to navigate the world. Pick a good one.
+1. Your worldview is not reality, but it does
+   determine how you navigate the world. Pick a good one.
+
 
 <!--
 
