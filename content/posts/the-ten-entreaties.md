@@ -29,7 +29,7 @@ Remember that
 1. All things are funny, in context.
 
 1. Your worldview is not reality, but it does
-   determine how you navigate the world. Pick a good one.
+   determine how you navigate the world. So pick a good one.
 
 
 <!--
